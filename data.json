@@ -1,0 +1,35 @@
+{
+    "id": "https://github.com/EdinburghCityScope/ukg-road-safety",
+    "title": "Road Safety Data for Edinburgh",
+    "description": "2015 Road Accidents as published by the UK Government Department of Transport.",
+    "landingPage": "https://github.com/EdinburghCityScope/ukg-road-safety",
+    "issued": "2016-10-21",
+    "modified": "2016-11-28",
+    "language": [
+        "en"
+    ],
+    "publisher": {
+        "name": "UK Government Department for Transport",
+        "mbox": "roadacc.stats@dft.gsi.gov.uk"
+    },
+    "spatial": "http://www.geonames.org/maps/google_55.95_-3.193.html",
+    "keyword": [
+        "health"
+    ],
+    "distribution": [
+        {
+            "title": "Road Accident Data GeoJSON",
+            "description": "2015 Road Safety Data for Edinburgh as published by the UK Department for Transport.  Data taken from https://data.gov.uk/dataset/road-accidents-safety-data.",
+            "mediaType": "application/vnd.geo+json",
+            "downloadURL": "https://raw.githubusercontent.com/EdinburghCityScope/ukg-road-safety/master/data/road-safety.json",
+            "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"
+        },
+        {
+            "title": "Road Accident Data",
+            "description": "2015 Road Safety Data for Edinburgh as published by the UK Department for Transport.  Data taken from https://data.gov.uk/dataset/road-accidents-safety-data.",
+            "mediaType": "text/csv",
+            "downloadURL": "https://raw.githubusercontent.com/EdinburghCityScope/ukg-road-safety/master/data/road-safety.csv",
+            "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"
+        }
+    ]
+}
